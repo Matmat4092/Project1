@@ -45,7 +45,7 @@ body {
 }
 
 .two {
-  background-image: url("/img/man-big.jpg");
+  background-image: url("img/man-big.jpg");
 }
 
 button {
