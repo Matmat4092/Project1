@@ -41,11 +41,11 @@ body {
 }
 
 .one {
-  background-image: url("./img/woman-big.jpg");
+  background-image: url('./img/woman-big.jpg');
 }
 
 .two {
-  background-image: url("./img/man-big.jpg");
+  background-image: url('./img/man-big.jpg');
 }
 
 button {
