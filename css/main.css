@@ -41,7 +41,7 @@ body {
 }
 
 .one {
-  background-image: url("/img/woman-big.jpg");
+  background-image: url("img/woman-big.jpg");
 }
 
 .two {
